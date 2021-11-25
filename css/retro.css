@@ -213,8 +213,10 @@ li li {
   padding-left: 31%;
 }
 
-/* .category {
-} */
+.repo a {
+  color: white;
+  text-decoration: none;
+}
 
 .repo:hover {
   text-decoration: underline;
